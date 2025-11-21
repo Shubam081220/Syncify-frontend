@@ -44,13 +44,13 @@ export default function NotFoundPage() {
           {/* Footer */}
           <footer className="text-neutral-400 py-4 text-center mt-8">
             <p>
-              This project is created by <b className="text-emerald-500">Ramkrishna</b> . Follow me on
+              This project is created by <b className="text-emerald-500">Shubam Lunawat</b>. Follow me on
             </p>
             <div className="flex justify-center gap-4 mt-4">
-              <a href="https://www.linkedin.com/in/ramcodes" target="_blank" rel="noopener noreferrer" className="text-emerald-500">
+              <a href="https://www.linkedin.com/in/shubam-lunawat/" target="_blank" rel="noopener noreferrer" className="text-emerald-500">
                 <Linkedin className="h-6 w-6" />
               </a>
-              <a href="https://github.com/ramxcodes" target="_blank" rel="noopener noreferrer" className="text-emerald-500">
+              <a href="https://github.com/Shubam081220" target="_blank" rel="noopener noreferrer" className="text-emerald-500">
                 <Github className="h-6 w-6" />
               </a>
               <a href="https://twitter.com/ramxcodes" target="_blank" rel="noopener noreferrer" className="text-emerald-500">
@@ -60,6 +60,9 @@ export default function NotFoundPage() {
                 <Instagram className="h-6 w-6" />
               </a>
             </div>
+            <p className="text-neutral-500 text-sm mt-4">
+              © 2025 Shubam Lunawat — All Rights Reserved
+            </p>
           </footer>
         </div>
       </div>

@@ -41,16 +41,16 @@ const DeveloperCreditPage = () => {
                 Developer
               </motion.span>
               <h1 className="text-3xl font-bold text-neutral-200 mt-2">
-                Ramkrishna Swarnkar
+                Shubam Lunawat
               </h1>
               <p className="text-neutral-400 mt-2">Connect Me on</p>
               <div className="flex justify-center sm:justify-start space-x-4 mt-2">
                 {[
                   {
-                    href: "https://www.linkedin.com/in/ramcodes",
+                    href: "https://www.linkedin.com/in/shubam-lunawat/",
                     Icon: Linkedin,
                   },
-                  { href: "https://github.com/ramxcodes", Icon: Github },
+                  { href: "https://github.com/Shubam081220", Icon: Github },
                   { href: "https://twitter.com/ramxcodes", Icon: Twitter },
                   { href: "https://instagram.com/__ramfr", Icon: Instagram },
                 ].map(({ href, Icon }) => (
@@ -85,37 +85,21 @@ const DeveloperCreditPage = () => {
         >
           <h2 className="text-2xl font-bold text-emerald-500">About</h2>
           <p className="text-neutral-400 mt-4">
-            Hi there! I'm Ram, a 3rd-year Medi-caps University BTech CS student
-            who combines creativity and code to create powerful digital
+            Hi there! I'm Shubam, a developer who combines creativity and code to create powerful digital
             experiences. Possessing a talent for both front-end and back-end
-            development, I'm extending my knowledge with Three.js and 3D web
-            development while exploring MERN and Next.js.
+            development, I'm constantly exploring new technologies and frameworks
+            to build innovative solutions.
           </p>
           <p className="text-neutral-400 mt-4">
-            I'm now honing my development abilities as an intern at{" "}
-            <a
-              href="https://expelee.com"
-              target="_blank"
-              className="text-emerald-500"
-            >
-              @Expelee
-            </a>{" "}
-            and assisting others in their coding journey as a Tech Mentor at{" "}
-            <a
-              href="https://muacm.vercel.app"
-              target="_blank"
-              className="text-emerald-500"
-            >
-              @MU-ACM
-            </a>
-            . Not only I code, but I'm also a passionate graphic designer, video
-            editor, and UI/UX designer, so I can offer a complete creative
-            package to any project.
+            I'm passionate about creating seamless user experiences and building
+            scalable applications. Whether it's front-end development, back-end
+            architecture, or full-stack solutions, I enjoy tackling challenging
+            problems and turning ideas into reality.
           </p>
           <p className="text-neutral-400 mt-4">
-            When I’m not coding or designing, I’m often found sharing my
-            insights as a public speaker, empowering others with tech knowledge
-            and hands-on experience.
+            When I'm not coding, I'm often found learning new technologies,
+            contributing to open-source projects, and sharing knowledge with
+            the developer community.
           </p>
           <div className="mt-4">
             <h3 className="text-neutral-200 font-bold">🎯 Key Skills:</h3>
@@ -131,8 +115,11 @@ const DeveloperCreditPage = () => {
             </ul>
           </div>
           <p className="text-neutral-400 mt-4">
-            I’m always eager to learn and collaborate on innovative projects, so
-            feel free to reach out if you’d like to connect or work together!
+            I'm always eager to learn and collaborate on innovative projects, so
+            feel free to reach out if you'd like to connect or work together!
+          </p>
+          <p className="text-neutral-500 text-sm mt-6 text-center">
+            © 2025 Shubam Lunawat — All Rights Reserved
           </p>
         </motion.div>
 

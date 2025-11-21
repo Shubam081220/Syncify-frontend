@@ -1,6 +1,6 @@
 # Syncify – Yet Another Spotify Clone... But Better! 🎧
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/ramxcodes/Syncify-frontend)](https://github.com/ramxcodes/Syncify-frontend) ![GitHub stars](https://img.shields.io/github/stars/ramxcodes/Syncify-frontend?style=social) ![GitHub forks](https://img.shields.io/github/forks/ramxcodes/Syncify-frontend?style=social) [![Twitter Follow](https://img.shields.io/twitter/follow/ramxcodes?style=social)](https://twitter.com/intent/follow?screen_name=ramxcodes)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Shubam081220/Syncify-frontend)](https://github.com/Shubam081220/Syncify-frontend) ![GitHub stars](https://img.shields.io/github/stars/Shubam081220/Syncify-frontend?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shubam081220/Syncify-frontend?style=social)
 
 Syncify is a modern, feature-rich music streaming platform that combines a sleek user interface with powerful backend capabilities. Whether you're here to discover new tracks, manage music, or analyze stats, Syncify has it all!
 
@@ -16,7 +16,7 @@ Syncify is a modern, feature-rich music streaming platform that combines a sleek
 
 #### Connect With Me 🚀
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramcodes) [![github](https://skillicons.dev/icons?i=github)](https://www.github.com/ramxcodes) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ramxcodes) [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/__ramfr)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shubam-lunawat/) [![github](https://skillicons.dev/icons?i=github)](https://www.github.com/Shubam081220)
 
 ---
 
@@ -89,8 +89,8 @@ The Admin Dashboard empowers administrators with:
 
 ### Repositories
 
-- **Frontend:** [Syncify-Frontend](https://github.com/ramxcodes/Syncify-frontend)
-- **Backend:** [Syncify-Backend](https://github.com/ramxcodes/Syncify-backend)
+- **Frontend:** [Syncify-Frontend](https://github.com/Shubam081220/Syncify-frontend)
+- **Backend:** [Syncify-Backend](https://github.com/Shubam081220/Syncify-backend)
 
 ### Frontend Environment Variables
 
@@ -157,9 +157,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 Feel free to reach out to me for guidance or collaboration:
 
-- [LinkedIn](https://www.linkedin.com/in/ramcodes)
-- [GitHub](https://github.com/ramxcodes)
-- [Twitter](https://twitter.com/ramxcodes)
-- [Instagram](https://instagram.com/__ramfr)
+- [LinkedIn](https://www.linkedin.com/in/shubam-lunawat/)
+- [GitHub](https://github.com/Shubam081220)
 
 Happy coding! 🚀
